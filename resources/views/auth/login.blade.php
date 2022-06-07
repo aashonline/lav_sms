@@ -1,7 +1,7 @@
 @extends('layouts.login_master')
 
 @section('content')
-    <div class="page-content login-cover">
+    <div class="page-content ">
 
         <!-- Main content -->
         <div class="content-wrapper">
